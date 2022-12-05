@@ -34,7 +34,7 @@ sr.reveal('.about,.services,.portfolio,.contact',{delay:200, origin:'bottom'})
 function generateRandomNotification() {
 	// Create an array of possible notifications
 	var notifications = [
-	  "Welcome to Academic department website!",
+	  "Welcome to Academic department Online services",
 	  "Thanks for visiting our site.",
 	  "Mary christmass.",
 	  "Happy New year",
