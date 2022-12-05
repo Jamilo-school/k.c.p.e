@@ -37,8 +37,8 @@ function generateRandomNotification() {
 	  "Welcome to Academic department website!",
 	  "Thanks for visiting our site.",
 	  "Mary christmass.",
-	  "Check out our latest blog post.",
-	  "Follow us on social media for updates.",
+	  "Happy New year",
+	  "Keep checking the website  for updates.",
 	];
   
 	// Generate a random number between 0 and the length of the array
@@ -60,10 +60,10 @@ function generateRandomNotification() {
 	  notificationElement.classList.add("toast-exit");
 	  setTimeout(function() {
 		notificationElement.remove();
-	  }, 2000);
+	  }, 4000);
 	}, 5000);
   }
   
   // Generate a random notification every 5 seconds
-  setInterval(generateRandomNotification, 13000);
+  setInterval(generateRandomNotification, 28000);
   
