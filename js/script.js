@@ -28,6 +28,8 @@ sr.reveal('.home-text',{delay:190, origin:'bottom'})
 sr.reveal('.about,.services,.portfolio,.contact',{delay:200, origin:'bottom'})
 
 
+
+
 // JavaScript code for generating random notifications
 function generateRandomNotification() {
 	// Create an array of possible notifications
