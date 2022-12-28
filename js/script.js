@@ -66,4 +66,4 @@ function generateRandomNotification() {
   
   // Generate a random notification every 5 seconds
   setInterval(generateRandomNotification, 28000);
-  
+  //////////////////////////////////////////////////////////////////////////////////////////
