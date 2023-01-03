@@ -349,6 +349,7 @@ form textarea{
 	font-size: 15px;
 	font-weight: 600;
 	letter-spacing: 1px;
+
 }
 .top{
 	position: fixed;
@@ -456,5 +457,5 @@ form textarea{
 	opacity: 0;
 	transform: translateY(0px);
   }
-  //////////////////////////////////////////////////////////////////////
+  /* ///////////////////////////////////////////////////////////////////// */
  
